@@ -1,0 +1,14 @@
+# Archivos compilados
+*.class
+bin/
+out/
+build/
+
+# Archivos de configuración de VS Code y otros IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos de sistema
+.DS_Store
+
